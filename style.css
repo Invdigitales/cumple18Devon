@@ -90,10 +90,11 @@ color: #F4BD18;
 
 .frase1{
   text-align: center;
-  font-family: 'Julius Sans One', sans-serif;
-   font-size: 20px;
-   color: #ffffff;
-   margin-top: 20%;
+    font-family: 'Julius Sans One', sans-serif;
+     font-size: 24px;
+     color: #ffffff;
+     font-weight: 700;
+     margin-top: 20%;
 }
   .linea{
     color:#fde7a6;
